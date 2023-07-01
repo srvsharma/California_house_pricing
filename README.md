@@ -1,4 +1,5 @@
-# California_house_pricing end to end
+# California_house_pricing end to end project
+
 
 
 # Software and Tools Requirements
